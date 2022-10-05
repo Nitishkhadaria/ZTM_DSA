@@ -2,7 +2,7 @@ import java.time.Duration;
 import java.time.Instant;
 import java.util.Arrays;
 
-public class FindNemo {
+public class FindNemo_Linear {
 
 	public static void main(String[] args) {
 		Instant start = Instant.now(); 
@@ -17,7 +17,8 @@ public class FindNemo {
 		Instant end = Instant.now();
 		Duration timeElapsed = Duration.between(start, end);
 		System.out.println("Time taken: "+ timeElapsed.toMillis() +" milliseconds");
-	
 	}
+	// Time complexity - O(n)
+
 
 }
