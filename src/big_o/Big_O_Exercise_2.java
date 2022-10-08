@@ -1,5 +1,4 @@
-
-public class BigO_Exercise_2 {
+public class Big_O_Exercise_2 {
 
 	public static void main(String[] args) {
 		int a = 5; // O(1)
@@ -23,6 +22,4 @@ public class BigO_Exercise_2 {
 
 }
 
-//Time complexity 
-//Big O(4+5n)
-//O(n)
+//Time complexity -> Big O(4+5n) -> O(n)

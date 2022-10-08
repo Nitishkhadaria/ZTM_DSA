@@ -1,5 +1,5 @@
- //Log all pairs of array
-public class Quadratic_Time {
+//Log all pairs of array
+public class LogAllPairs {
 
 	public static void main(String[] args) {
 		char[] input = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i' };
